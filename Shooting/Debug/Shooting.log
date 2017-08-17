@@ -1,0 +1,4 @@
+﻿  GameScene.cpp
+c:\users\pc\desktop\shooting\shooting\gamescene.cpp(38): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Shooting.vcxproj -> C:\Users\pc\Desktop\Shooting\Debug\Shooting.exe
+  Shooting.vcxproj -> C:\Users\pc\Desktop\Shooting\Debug\Shooting.pdb (Partial PDB)
